@@ -1,4 +1,4 @@
-# Automation Best Practices
+# Automation Best Practices - Implement PMD/CPD/Checkstyle/Findbugs checks into your project.
 
 **1. Implement some of the important tools which checks checkstyle issue, PMD/CPD and FindBugs issues into your code.**
 Note: Before you enable these rules, make sure that you have full understanding about Checkstyle Issues, PMD/CPD and about FindBugs.
